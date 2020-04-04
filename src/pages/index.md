@@ -13,12 +13,12 @@ description: TEST.  Test
 intro:
   blurbs:
     - image: /img/homeless-1116121_1920.jpg
-      text: |
+      text: >
         TEST
     - image: /img/2b97d6ba-bb26-47a4-baad-bf049c880a6a.jpeg
       text: TEST
     - image: /img/flavor_wheel.jpg
-      text: |
+      text: >
         TEST
     - image: /img/homeless-4520000_1920.jpg
       text: TEST
@@ -41,4 +41,3 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
-
