@@ -8,7 +8,7 @@ description: >-
   organization or one person can't solve this problem...it needs to be a
   village.
 featuredpost: false
-featuredimage: /img/homeless-1116121_1920.jpg
+featuredimage: /img/river-photo-for-madnova.jpg
 tags:
   - flavor
   - tasting
