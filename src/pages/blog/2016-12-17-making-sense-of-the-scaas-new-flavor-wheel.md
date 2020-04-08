@@ -1,10 +1,14 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
+title: Helping Others to Help Themselves
 date: 2016-12-17T15:04:10.000Z
+description: >-
+  The goal for MakeADifferenceNOVA is not only to help transition individuals
+  into a stable lifestyle but hopefully inspire them to pass it on.....One
+  organization or one person can't solve this problem...it needs to be a
+  village.
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+featuredimage: /img/homeless-1116121_1920.jpg
 tags:
   - flavor
   - tasting
