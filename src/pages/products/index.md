@@ -2,7 +2,7 @@
 templateKey: product-page
 title: Testimonies
 image: /img/river-photo-for-madnova.jpg
-heading: Great Conversation
+heading: Starts With Great Conversation
 description: Test
 intro:
   blurbs:
