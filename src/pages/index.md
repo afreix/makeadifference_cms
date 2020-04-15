@@ -25,7 +25,7 @@ intro:
   heading: TEST
   description: TEST
 main:
-  heading: Great coffee with no compromises
+  heading: Testing Position
   description: >
     We hold our coffee to the highest standards from the shrub to the cup.
     That’s why we’re meticulous and transparent about each step of the coffee’s
