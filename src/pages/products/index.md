@@ -22,10 +22,10 @@ main:
     image: /img/shayla-photo.jpeg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/laura-and-lori-at-canyon-in-san-diego.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/2b97d6ba-bb26-47a4-baad-bf049c880a6a.jpeg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
@@ -35,7 +35,7 @@ testimonials:
     quote: >-
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+full_image: /img/homeless-4520000_1920.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
