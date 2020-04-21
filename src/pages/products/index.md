@@ -22,7 +22,13 @@ intro:
     knowledge to anyone. This is an edit via identity...
 main:
   heading: Testimonials
-  description: Shawna's story.....
+  description: |-
+    James' Story
+
+    James own words.....
+
+
+    Shawna's story
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/shayla-photo.jpeg
