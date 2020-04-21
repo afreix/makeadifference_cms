@@ -7,7 +7,7 @@ description: Test
 intro:
   blurbs:
     - image: /img/james-moving-day-20-march-20.jpg
-      text: Shawna and kids????
+      text: James' Moving Day 20 March 2020
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
