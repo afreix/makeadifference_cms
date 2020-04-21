@@ -3,7 +3,13 @@ templateKey: product-page
 title: Testimonies
 image: /img/river-photo-for-madnova.jpg
 heading: Starts With Great Conversation
-description: Test
+description: >-
+  Not only great conversation but also a bit of chance, or as James likes to
+  say....God, brought James any myself together.  I was on a dinner run with
+  Feeding Friends (local nonprofit) and on our final stop I turned around and
+  James was standing there asking for some boots for an interview the next day. 
+  One thing lead to another and 10 minutes later James and I were exchanging
+  phone numbers.
 intro:
   blurbs:
     - image: /img/james-moving-day-20-march-20.jpg
