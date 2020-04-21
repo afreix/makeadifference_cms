@@ -6,7 +6,7 @@ heading: Starts With Great Conversation
 description: Test
 intro:
   blurbs:
-    - image: /img/laura-and-lori-at-canyon-in-san-diego.jpg
+    - image: /img/james-moving-day-20-march-20.jpg
       text: Shawna and kids????
   heading: What we offer
   description: >
