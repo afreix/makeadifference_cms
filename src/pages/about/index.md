@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: '                                                  Our Mission'
+title: Our Mission
 ---
 ## _Our Mission is to support Folks Transition from the "street corner" to a stable living environment_
 
