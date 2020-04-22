@@ -5,7 +5,7 @@ image: /img/homeless-4520000_1920.jpg
 heading: How can we Make A Difference?
 subheading: Helping Others to Help Themselves
 mainpitch:
-  title: Join me on my Journey to Stop Homelessness one person at a time.
+  title: Join me on my/our Journey to Stop Homelessness one person at a time.
   description: |-
 
     Yes we can make a difference one person at time
